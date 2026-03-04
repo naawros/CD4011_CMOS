@@ -1,0 +1,1974 @@
+* SPICE3 file created from layout_projiuss.ext - technology: scmos
+
+** SOURCE/DRAIN TIED
+M1000 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=2577.9p pd=8173.2u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1001 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1002 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=1591.52p pd=5206.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1003 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1004 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1005 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1006 M15 M2 M5 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=1.04p ps=8.8u
+** SOURCE/DRAIN TIED
+M1007 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1008 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1009 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1010 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1011 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1012 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1013 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1014 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1015 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1016 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1017 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1018 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1019 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1020 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1021 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1022 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1023 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1024 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1025 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1026 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1027 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1028 M15 a_335_582# a_435_548# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=17.8p ps=69.2u
+M1029 M15 M2 M5 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0.8p ps=7.2u
+** SOURCE/DRAIN TIED
+M1030 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1031 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1032 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1033 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1034 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1035 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1036 M7 M3 M15 Vss nfet w=0.4u l=0.2u
++  ad=0.8p pd=7.2u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1037 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1038 M15 a_335_81# a_435_47# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=11.86p ps=47.6u
+** SOURCE/DRAIN TIED
+M1039 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1040 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1041 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1042 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1043 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1044 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1045 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1046 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1047 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1048 a_1456_n18# a_1564_78# M15 Vss nfet w=5.4u l=0.2u
++  ad=11.86p pd=47.6u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1049 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1050 M15 M16 a_335_81# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=5.32p ps=23.6u
+** SOURCE/DRAIN TIED
+M1051 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1052 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1053 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1054 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1055 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1056 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1057 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1058 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1059 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1060 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1061 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1062 a_1564_579# M16 M15 M15 pfet w=8.1u l=0.2u
++  ad=8.08p pd=34.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1063 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1064 a_1456_n18# a_1564_78# M15 M15 pfet w=8.1u l=0.2u
++  ad=17.8p pd=69.2u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1065 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1066 M15 M12 M14 Vss nfet w=1.2u l=0.2u
++  ad=0p pd=0u as=2.16p ps=13.6u
+** SOURCE/DRAIN TIED
+M1067 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1068 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1069 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1070 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1071 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1072 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1073 a_1456_n18# a_1564_78# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1074 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1075 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1076 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1077 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1078 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1079 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1080 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1081 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1082 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1083 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1084 a_435_548# a_335_582# M15 Vss nfet w=5.4u l=0.2u
++  ad=11.86p pd=47.6u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1085 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1086 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1087 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1088 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1089 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1090 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1091 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1092 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1093 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1094 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1095 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1096 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1097 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1098 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1099 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1100 M12 M9 M15 Vss nfet w=0.4u l=0.2u
++  ad=0.8p pd=7.2u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1101 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1102 M15 M2 M5 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1103 M15 a_335_81# a_435_47# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=17.8p ps=69.2u
+** SOURCE/DRAIN TIED
+M1104 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1105 M15 M5 M9 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=1.6p ps=14.4u
+M1106 M15 a_335_582# a_435_548# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1107 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1108 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1109 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1110 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1111 a_435_47# a_335_81# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1112 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1113 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1114 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1115 M5 M2 M15 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1116 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1117 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1118 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1119 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1120 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1121 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1122 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1123 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1124 M15 a_1564_579# a_1456_483# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=11.86p ps=47.6u
+** SOURCE/DRAIN TIED
+M1125 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1126 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1127 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1128 M15 M14 M16 Vss nfet w=3.6u l=0.2u
++  ad=0p pd=0u as=7.2p ps=32.8u
+** SOURCE/DRAIN TIED
+M1129 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1130 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1131 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1132 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1133 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1134 a_1564_78# M16 M15 M15 pfet w=8.1u l=0.2u
++  ad=8.08p pd=34.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1135 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1136 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1137 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1138 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1139 M15 M12 M14 Vss nfet w=1.2u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1140 M15 a_1564_579# a_1456_483# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=17.8p ps=69.2u
+** SOURCE/DRAIN TIED
+M1141 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1142 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1143 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1144 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1145 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1146 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1147 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1148 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1149 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1150 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1151 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1152 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1153 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1154 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1155 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1156 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1157 a_186_647# M7 M9 M15 pfet w=0.6u l=0.2u
++  ad=0.52p pd=4.4u as=1.04p ps=8.8u
+** SOURCE/DRAIN TIED
+M1158 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1159 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1160 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1161 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1162 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1163 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1164 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1165 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1166 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1167 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1168 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1169 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1170 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1171 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1172 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1173 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1174 M15 M5 M9 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1175 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1176 M14 M12 M15 Vss nfet w=1.2u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1177 M15 M9 M12 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1178 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1179 a_435_548# a_335_582# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1180 M15 a_335_81# a_435_47# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1181 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1182 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1183 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1184 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1185 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1186 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1187 a_435_47# a_335_81# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1188 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1189 M5 M2 M15 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1190 a_1871_616# M5 M15 M15 pfet w=0.6u l=0.2u
++  ad=0.52p pd=4.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1191 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1192 M16 M14 M15 Vss nfet w=3.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1193 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1194 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1195 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1196 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1197 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1198 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1199 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1200 a_335_81# M16 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1201 M15 a_1564_78# a_1456_n18# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1202 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1203 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1204 M15 M14 M16 Vss nfet w=3.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1205 M9 M7 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1206 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1207 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1208 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1209 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1210 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1211 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1212 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1213 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1214 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1215 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1216 M15 a_1564_78# a_1456_n18# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1217 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1218 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1219 M15 a_1564_579# a_1456_483# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1220 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1221 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1222 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1223 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1224 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1225 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1226 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1227 M15 a_1564_78# a_1456_n18# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1228 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1229 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1230 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1231 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1232 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1233 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1234 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1235 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1236 a_186_146# M7 M9 M15 pfet w=0.6u l=0.2u
++  ad=0.52p pd=4.4u as=0p ps=0u
+M1237 M15 M3 M7 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=1.04p ps=8.8u
+** SOURCE/DRAIN TIED
+M1238 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1239 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1240 M15 a_335_582# a_435_548# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1241 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1242 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1243 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1244 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1245 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1246 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1247 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1248 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1249 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1250 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1251 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1252 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1253 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1254 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1255 M15 M9 M12 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1256 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1257 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1258 a_435_47# a_335_81# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1259 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1260 a_435_548# a_335_582# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1261 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1262 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1263 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1264 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1265 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1266 M12 M9 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1267 a_1871_115# M5 M15 M15 pfet w=0.6u l=0.2u
++  ad=0.52p pd=4.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1268 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1269 M12 M9 M15 M15 pfet w=0.6u l=0.2u
++  ad=1.04p pd=8.8u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1270 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1271 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1272 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1273 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1274 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1275 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1276 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1277 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1278 M15 M16 a_1564_579# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=5.32p ps=23.6u
+M1279 a_1456_483# a_1564_579# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1280 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1281 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1282 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1283 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1284 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1285 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1286 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1287 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1288 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1289 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1290 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1291 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1292 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1293 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1294 a_1456_483# a_1564_579# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1295 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1296 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1297 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1298 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1299 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1300 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1301 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1302 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1303 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1304 M16 M14 M15 M15 pfet w=5.4u l=0.2u
++  ad=10.64p pd=47.2u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1305 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1306 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1307 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1308 M9 M5 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1309 M15 M3 M7 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1310 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1311 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1312 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1313 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1314 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1315 M15 a_335_582# a_435_548# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1316 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1317 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1318 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1319 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1320 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1321 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1322 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1323 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1324 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1325 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1326 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1327 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1328 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1329 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1330 a_435_47# a_335_81# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1331 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1332 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1333 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1334 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1335 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1336 M15 M16 a_335_582# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=8.08p ps=34.4u
+** SOURCE/DRAIN TIED
+M1337 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1338 M9 M5 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1339 M15 a_335_81# a_435_47# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1340 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1341 M12 M9 M15 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1342 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1343 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1344 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1345 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1346 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1347 M15 M16 a_1564_78# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=5.32p ps=23.6u
+** SOURCE/DRAIN TIED
+M1348 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1349 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1350 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1351 a_1456_n18# a_1564_78# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1352 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1353 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1354 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1355 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1356 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1357 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1358 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1359 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1360 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1361 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1362 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1363 M14 M12 M15 Vss nfet w=1.2u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1364 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1365 a_1456_n18# a_1564_78# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1366 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1367 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1368 a_1456_483# a_1564_579# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1369 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1370 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1371 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1372 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1373 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1374 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1375 M16 M14 M15 M15 pfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1376 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1377 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1378 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1379 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1380 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1381 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1382 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1383 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1384 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1385 a_435_548# a_335_582# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1386 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1387 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1388 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1389 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1390 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1391 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1392 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1393 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1394 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1395 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1396 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1397 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1398 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1399 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1400 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1401 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1402 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1403 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1404 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1405 M15 M3 M7 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1406 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1407 M15 a_335_582# a_435_548# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1408 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1409 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1410 M15 M16 a_335_81# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=8.08p ps=34.4u
+** SOURCE/DRAIN TIED
+M1411 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1412 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1413 M5 M2 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1414 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1415 M7 M3 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1416 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1417 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1418 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1419 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1420 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1421 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1422 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1423 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1424 a_1564_579# M16 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1425 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1426 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1427 M15 a_1564_579# a_1456_483# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1428 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1429 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1430 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1431 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1432 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1433 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1434 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1435 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1436 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1437 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1438 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1439 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1440 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1441 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1442 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1443 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1444 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1445 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1446 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1447 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1448 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1449 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1450 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1451 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1452 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1453 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1454 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1455 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1456 M15 M9 M12 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1457 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1458 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1459 a_435_548# a_335_582# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1460 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1461 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1462 M15 M16 a_335_582# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=5.32p ps=23.6u
+** SOURCE/DRAIN TIED
+M1463 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1464 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1465 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1466 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1467 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1468 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1469 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1470 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1471 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1472 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1473 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1474 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1475 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1476 M15 M3 M7 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1477 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1478 M15 M7 M9 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1479 M15 a_335_81# a_435_47# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1480 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1481 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1482 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1483 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1484 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1485 a_335_582# M16 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1486 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1487 a_435_47# a_335_81# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1488 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1489 M7 M3 M15 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1490 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1491 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1492 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1493 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1494 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1495 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1496 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1497 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1498 a_1564_78# M16 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1499 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1500 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1501 M15 a_1564_78# a_1456_n18# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1502 M15 a_1564_579# a_1456_483# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1503 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1504 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1505 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1506 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1507 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1508 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1509 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1510 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1511 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1512 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1513 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1514 M15 a_1564_579# a_1456_483# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1515 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1516 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1517 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1518 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1519 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1520 M5 M2 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1521 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1522 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1523 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1524 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1525 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1526 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1527 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1528 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1529 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1530 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1531 M15 M9 M12 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1532 M15 M5 a_186_647# M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1533 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1534 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1535 M14 M12 M15 M15 pfet w=1.8u l=0.2u
++  ad=3.44p pd=18.4u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1536 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1537 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1538 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1539 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1540 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1541 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1542 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1543 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1544 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1545 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1546 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1547 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1548 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1549 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1550 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1551 M15 M7 M9 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1552 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1553 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1554 a_435_548# a_335_582# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1555 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1556 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1557 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1558 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1559 a_335_81# M16 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1560 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1561 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1562 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1563 M7 M3 M15 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1564 M9 M7 a_1871_616# M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1565 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1566 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1567 M15 M12 M14 M15 pfet w=1.8u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1568 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1569 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1570 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1571 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1572 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1573 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1574 M15 a_1564_78# a_1456_n18# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1575 a_1456_483# a_1564_579# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1576 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1577 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1578 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1579 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1580 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1581 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1582 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1583 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1584 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1585 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1586 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1587 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1588 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1589 M15 M14 M16 M15 pfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1590 M15 M16 a_1564_579# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1591 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1592 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1593 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1594 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1595 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1596 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1597 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1598 M15 a_1564_78# a_1456_n18# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1599 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1600 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1601 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1602 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1603 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1604 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1605 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1606 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1607 M15 M5 a_186_146# M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1608 M15 M2 M5 M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1609 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1610 M14 M12 M15 M15 pfet w=1.8u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1611 M15 a_1456_n18# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1612 M15 a_1456_483# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1613 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1614 M15 a_335_582# a_435_548# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1615 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1616 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1617 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1618 a_335_582# M16 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1619 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1620 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1621 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1622 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1623 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1624 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1625 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1626 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1627 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1628 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1629 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1630 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1631 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1632 a_435_47# a_335_81# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1633 M15 a_1456_483# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1634 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1635 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1636 M16 M14 M15 Vss nfet w=3.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1637 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1638 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1639 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1640 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1641 M15 a_335_81# a_435_47# Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1642 M9 M7 M15 Vss nfet w=0.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1643 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1644 M9 M7 a_1871_115# M15 pfet w=0.6u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1645 M15 M12 M14 M15 pfet w=1.8u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1646 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1647 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1648 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1649 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1650 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1651 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1652 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1653 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1654 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1655 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1656 a_1456_n18# a_1564_78# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1657 a_1456_483# a_1564_579# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1658 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1659 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1660 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1661 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1662 M15 a_1456_n18# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1663 M15 a_435_47# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1664 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1665 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1666 M15 M16 a_1564_78# M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1667 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1668 M15 M14 M16 M15 pfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1669 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1670 M15 a_435_548# M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1671 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1672 M15 M15 M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+M1673 a_1456_483# a_1564_579# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1674 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1675 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1676 M15 a_435_47# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1677 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1678 M15 a_435_548# M15 M15 pfet w=8.1u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+** SOURCE/DRAIN TIED
+M1679 M15 M15 M15 Vss nfet w=5.4u l=0.2u
++  ad=0p pd=0u as=0p ps=0u
+C0 M2 a_n1234_33# 208.20fF
+C1 M2 M15 14.82fF
+C2 a_n1234_783# M15 208.00fF
+C3 a_335_81# M15 7.17fF
+C4 M5 M15 4.00fF
+C5 M3 a_2616_783# 207.91fF
+C6 a_435_47# M15 15.65fF
+C7 M7 M15 2.21fF
+C8 a_1116_n1428# M2 208.09fF
+C9 a_1564_579# M15 7.17fF
+C10 a_n1234_n717# M3 207.82fF
+C11 M12 M15 2.05fF
+C12 a_366_n1428# M15 208.09fF
+C13 M14 M15 2.90fF
+C14 a_n384_n1428# M15 208.09fF
+C15 a_1456_483# M15 15.65fF
+C16 M16 M15 6.73fF
+C17 M3 a_n384_1470# 208.18fF
+C18 a_2616_n717# M15 207.82fF
+C19 a_1866_1470# M15 208.17fF
+C20 M3 M15 16.99fF
+C21 a_1116_1470# M15 208.14fF
+C22 a_335_582# M15 7.17fF
+C23 a_1564_78# M15 7.17fF
+C24 a_2616_33# M2 208.18fF
+C25 M2 a_366_1470# 208.10fF
+C26 a_435_548# M15 15.65fF
+C27 a_1456_n18# M15 15.65fF
+C28 a_1866_n1428# M3 208.09fF
+C29 a_1866_n1428# Vss 497.25fF **FLOATING
+C30 a_1116_n1428# Vss 497.25fF **FLOATING
+C31 a_366_n1428# Vss 497.25fF **FLOATING
+C32 a_n384_n1428# Vss 497.25fF **FLOATING
+C33 a_2616_n717# Vss 497.25fF **FLOATING
+C34 a_n1234_n717# Vss 497.25fF **FLOATING
+C35 a_2616_33# Vss 497.25fF **FLOATING
+C36 M2 Vss 129.76fF
+C37 M9 Vss 2.11fF
+C38 M16 Vss 2.25fF
+C39 M3 Vss 114.46fF
+C40 a_1456_n18# Vss 2.32fF
+C41 a_435_47# Vss 2.32fF
+C42 a_2616_783# Vss 497.25fF **FLOATING
+C43 a_1456_483# Vss 2.32fF
+C44 a_435_548# Vss 2.32fF
+C45 a_n1234_33# Vss 497.25fF **FLOATING
+C46 a_n1234_783# Vss 497.25fF **FLOATING
+C47 a_1866_1470# Vss 497.25fF **FLOATING
+C48 a_1116_1470# Vss 497.25fF **FLOATING
+C49 a_366_1470# Vss 497.25fF **FLOATING
+C50 a_n384_1470# Vss 497.25fF **FLOATING
+C51 M15 Vss 1117.61fF

@@ -1,0 +1,73 @@
+*----------------------------------------------------------------------*
+* Project: Programmable Delay Line Component - NAND + High-Drive Buffer
+* Technology: TSMC 180nm (t77a)
+* Author: [Twoje Imię i Nazwisko]
+* Date: March 2026
+*----------------------------------------------------------------------*
+
+*** SETTINGS & LIBRARIES ***
+.lib 'tsmc180_t77a_spice.lib' TT  ; Dodano oznaczenie cornera (np. Typical)
+.options post=1 brief nomod      ; Opcje symulacji dla przejrzystości logów
+
+*** PARAMETERS ***
+.param VDD_VAL = 1.8V
+.param L_MIN   = 0.2u
+.param W_N_UNIT = 0.4u
+.param W_P_UNIT = 0.6u
+.param SCALE_FACTOR = 3
+
+*** SUBCIRCUITS ***
+
+*--- Inverter Unit ---
+.subckt INV in out VDD VSS WN=0.4u WP=0.6u
+M1 out in VDD VDD PFET W={WP} L={L_MIN}
+M2 out in VSS VSS NFET W={WN} L={L_MIN}
+.ends INV
+
+*--- NAND Gate (Logic Core) ---
+.subckt NAND_GATE in1 in2 out VDD VSS
+* Input Inverters/Buffers (if needed based on your M1-M4)
+XINV1 in1 A VDD VSS INV WN=0.4u WP=0.6u
+XINV2 in2 B VDD VSS INV WN=0.4u WP=0.6u
+
+* NAND Core Logic
+M5 D A VSS VSS NFET W=0.4u L={L_MIN}
+M6 E A VDD VDD PFET W=1.2u L={L_MIN}
+M7 D B E   VDD PFET W=1.2u L={L_MIN}
+M8 D B VSS VSS NFET W=0.4u L={L_MIN}
+
+* Output Stage of NAND
+XINV3 D out VDD VSS INV WN=0.4u WP=0.6u
+.ends NAND_GATE
+
+*--- High-Drive Tapered Buffer ---
+.subckt POWER_BUFFER in out VDD VSS
+XBUF1 in   buf1 VDD VSS INV WN={1.2u}   WP={1.8u}
+XBUF2 buf1 buf2 VDD VSS INV WN={3.6u}   WP={5.4u}
+XBUF3 buf2 buf3 VDD VSS INV WN={10.8u}  WP={16.2u}
+XBUF4 buf3 buf4 VDD VSS INV WN={32.4u}  WP={48.6u}
+XBUF5 buf4 buf5 VDD VSS INV WN={97.2u}  WP={145.8u}
+XBUF6 buf5 out  VDD VSS INV WN={291.6u} WP={437.4u}
+.ends POWER_BUFFER
+
+*** TOP LEVEL INSTANTIATION ***
+XLOGIC in1 in2 logic_out VDD VSS NAND_GATE
+XDRIVE logic_out out     VDD VSS POWER_BUFFER
+
+*** POWER SUPPLIES ***
+Vdd VDD 0 DC {VDD_VAL}
+Vss VSS 0 DC 0
+
+*** SIGNAL SOURCES ***
+Vin1 in1 0 DC {VDD_VAL}
+Vin2 in2 0 PULSE(0 {VDD_VAL} 1n 0.1n 0.1n 5n 10n)
+
+*** ANALYSIS ***
+.op
+.temp -30 27 125
+*.tran 0.1n 50n
+
+*** LOAD ***
+CLOAD out VSS 25p
+
+.end
