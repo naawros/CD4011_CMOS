@@ -15,4 +15,4 @@ This project is an implementation of a NAND gate in **TSMC 180nm** technology. I
 4. Verification and Design Rule Check (DRC).
 
 ## Layout Preview
-![Layout Preview](images/layout_cd4011.png)
+![Layout Preview](images/cd4011_layout.png)
