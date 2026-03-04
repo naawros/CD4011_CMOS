@@ -1,76 +1,18 @@
-# \# CMOS CD4011 NAND Gate – TSMC 180nm
+# CD4011 CMOS NAND Gate
 
-# 
+Ten projekt to implementacja bramki NAND w technologii **TSMC 180nm**. Jest to podstawowy blok budulcowy klasycznego układu logicznego CD4011.
 
-# This repository contains the implementation of a \*\*CMOS NAND gate\*\*, serving as the fundamental building block of the classic \*\*CD4011\*\* logic IC. The design focuses on high-performance digital logic using a modern 180nm process node.
+## 🛠 Specyfikacja
+- **Technologia:** TSMC 180nm
+- **Napięcie zasilania:** 1.8V
+- **Funkcja logiczna:** 2-wejściowa bramka NAND
+- **Narzędzia:** SPICE, Magic VLSI
 
-# 
+## 🚀 Przebieg projektu
+1. Projektowanie na poziomie tranzystorów (Schemat i symulacje SPICE).
+2. Projektowanie bufora wyjściowego (wielostopniowego).
+3. Tworzenie layoutu w programie Magic VLSI.
+4. Weryfikacja i sprawdzenie reguł projektowych (DRC).
 
-# ---
-
-# 
-
-# \## Key Features
-
-# 
-
-# \* \*\*Transistor-level design:\*\* Optimized NAND logic core.
-
-# \* \*\*High Drive Capability:\*\* Integrated multi-stage \*\*tapered CMOS buffer chain\*\*.
-
-# \* \*\*Physical Design:\*\* Full layout implemented in \*\*Magic VLSI\*\*.
-
-# \* \*\*I/O Protection:\*\* Basic input protection structures and bonding pad considerations.
-
-# 
-
-# ---
-
-# 
-
-# \## Design Flow
-
-# 
-
-# 1\. \*\*Schematic \& SPICE:\*\* Transistor-level design and functional verification.
-
-# 2\. \*\*Analysis:\*\* Operating point analysis and DC/Transient simulations.
-
-# 3\. \*\*Buffer Design:\*\* Implementation of a tapered buffer to improve fan-out.
-
-# 4\. \*\*Layout:\*\* Physical implementation in Magic VLSI.
-
-# 5\. \*\*Verification:\*\* Post-layout checks and DRC.
-
-# 
-
-# ---
-
-# 
-
-# \## Layout Preview
-
-# 
-
-# !\[Layout Screenshot](images/layout\_cd4011.png)
-
-# 
-
-# > \*\*Note:\*\* The layout includes the NAND core, the output buffer chain, and routing for VDD and GND.
-
-# 
-
-# ---
-
-# 
-
-# \## Future Improvements
-
-# 
-
-# \* \[ ] \*\*Parasitic Extraction (PEX):\*\* To account for R/C delays in routing.
-
-# \* \[ ] \*\*Post-layout Timing:\*\* Accurate delay characterization after extraction.
-
-# \* \[ ] \*\*Power Analysis:\*\* Static and dynamic power consumption studies.
-
+## 🖼 Podgląd Layoutu
+![Podgląd Layoutu](images/layout_cd4011.png)
